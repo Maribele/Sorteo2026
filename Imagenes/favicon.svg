@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="mi&hu favicon">
+  <defs>
+    <clipPath id="circleClip">
+      <circle cx="256" cy="256" r="240" />
+    </clipPath>
+  </defs>
+  <circle cx="256" cy="256" r="248" fill="#ff5aab"/>
+  <circle cx="256" cy="256" r="220" fill="#ffffff"/>
+  <g clip-path="url(#circleClip)">
+    <rect width="512" height="512" fill="#ffffff"/>
+    <image href="Logo.jpg" x="86" y="86" width="340" height="340" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <circle cx="256" cy="256" r="240" fill="none" stroke="#d62f82" stroke-width="10"/>
+</svg>
